@@ -1,1 +1,3 @@
 monday
+tuesday
+wednesday
